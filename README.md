@@ -60,7 +60,7 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 ![Slewate_plot](https://github.com/khajamufaqqamuddin-pixel/Miller-Compensated-Two-Stage-OPAMP-Using-Cadence-Virtuoso/blob/main/Plots/Slewate_plot.png)
 
-![OPAMP_BodePlot](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/df30090f-4bd0-4e84-8901-56bc1f8951b0)
+![SlewRate_Cacl](https://github.com/khajamufaqqamuddin-pixel/Miller-Compensated-Two-Stage-OPAMP-Using-Cadence-Virtuoso/blob/main/Plots/SlewRate_Cacl.png)
 
 
 
