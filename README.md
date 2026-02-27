@@ -53,7 +53,7 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 # Gain and Phase Margin
 - Achieved specifications:
-  - DC gain: 64 dB, GBW(new): 34 MHz, Phase Margin(new): 180°,  Slew Rate: 38.72u V/sec
+  - DC gain: 64 dB, GBW : 34 MHz, Phase Margin: 59°,  Slew Rate: 38.72u V/sec
 <p align="center">
   <img src="https://github.com/khajamufaqqamuddin-pixel/Miller-Compensated-Two-Stage-OPAMP-Using-Cadence-Virtuoso/blob/main/Plots/VCM_0.5_plot.png" />
 </p>
