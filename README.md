@@ -15,7 +15,7 @@ implemented in **Cadence Virtuoso (90 nm technology)**.
 | Gain Bandwidth | GBW | 30 MHz |
 | Phase Margin | PM | ≥ 60° |
 | Slew Rate | SR | 20 V/µs |
-| Load Capacitance | Cᴸ | 2 pF |
+| Load Capacitance | CLᴸ | 2 pF |
 | Supply Voltage | VDD | 1.8 V |
 | Power Dissipation | P | ≤ 300 µW |
 
